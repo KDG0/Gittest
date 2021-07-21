@@ -1,0 +1,3 @@
+funtion greetings {
+	alert ("Hola")
+}
